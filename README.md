@@ -2,6 +2,11 @@
 ## Objective
 - The objective of this project is to analyze Airbnb listings data to identify trends and patterns in rental prices, availability, room types, and customer reviews. Using Tableau, the goal is to create an interactive dashboard that helps users easily explore the data and make informed decisions.
 
+## Aim
+-To deliver actionable insights through interactive visuals, helping stakeholders:
+- Identify high-performing products and regions
+- Monitor seasonal trends and customer behavior
+- Make better decisions on marketing and inventory
 
 # Dataset Used
 - https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/AirBnB%20Dashboard3.twbx
@@ -33,6 +38,12 @@
 - Drop-down filters for city and room type
 - Hover tooltips for listing-specific details
 - Highlight actions and dynamic KPIs
+
+## Use
+- The dashboard enables business users to:
+- Filter by product category, region, customer type
+- Drill down by month, quarter, or year
+- Compare sales channels and customer loyalty metrics
 
 - ![Uploading Screenshot 2025-05-13 110836.png…]() https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/Screenshot%202025-05-13%20110836.png
 
