@@ -34,4 +34,4 @@
 - Hover tooltips for listing-specific details
 - Highlight actions and dynamic KPIs
 
-- 
+- https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/Screenshot%202025-05-13%20110836.png
