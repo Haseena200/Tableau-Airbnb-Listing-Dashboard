@@ -20,6 +20,13 @@
 - How does the pricing distribution look across neighborhoods?
 - What are the top-performing listings in terms of revenue potential?
 
+## Tools Used
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Star Schema Modeling
+- Slicers & Drill-throughs
+
 - Process
 - Data Collection & Preparation
 - Imported Airbnb dataset (CSV or Excel format) into Tableau.
@@ -45,5 +52,8 @@
 - Drill down by month, quarter, or year
 - Compare sales channels and customer loyalty metrics
 
+## Conclusion
+- The Power BI dashboard empowers decision-makers with fast, clear, and interactive insights. It improves visibility into key areas of sales, reveals trends across time and geography, and uncovers opportunities for optimization.
+  
 - https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/Screenshot%202025-05-13%20110836.png
 
