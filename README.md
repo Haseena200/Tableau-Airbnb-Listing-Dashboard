@@ -55,5 +55,4 @@
 ## Conclusion
 - The Power BI dashboard empowers decision-makers with fast, clear, and interactive insights. It improves visibility into key areas of sales, reveals trends across time and geography, and uncovers opportunities for optimization.
   
-- https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/Screenshot%202025-05-13%20110836.png
-
+- ![Screenshot 2025-05-13 110836](https://github.com/user-attachments/assets/09ea24e1-a85a-4767-92da-a9d06eff5c4d)
