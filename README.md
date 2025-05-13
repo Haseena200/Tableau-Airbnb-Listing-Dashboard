@@ -45,5 +45,5 @@
 - Drill down by month, quarter, or year
 - Compare sales channels and customer loyalty metrics
 
-- 
+- https://github.com/Haseena200/Tableau-Airbnb-Listing-Dashboard/blob/main/Screenshot%202025-05-13%20110836.png
 
