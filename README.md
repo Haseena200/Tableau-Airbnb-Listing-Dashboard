@@ -26,7 +26,7 @@
 - Geo-coding
 - Filters, Parameters, and Interactivity
 
-- Process
+- ## Process
 - Data Collection & Preparation
 - Imported Airbnb dataset (CSV or Excel format) into Tableau.
 - Cleaned and filtered data: removed nulls, corrected data types, created calculated fields (e.g., revenue = price × availability).
