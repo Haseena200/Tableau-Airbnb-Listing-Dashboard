@@ -21,11 +21,10 @@
 - What are the top-performing listings in terms of revenue potential?
 
 ## Tools Used
-- Power BI Desktop
-- Power Query
-- DAX (Data Analysis Expressions)
-- Star Schema Modeling
-- Slicers & Drill-throughs
+- Tableau Desktop
+- Calculated Fields
+- Geo-coding
+- Filters, Parameters, and Interactivity
 
 - Process
 - Data Collection & Preparation
