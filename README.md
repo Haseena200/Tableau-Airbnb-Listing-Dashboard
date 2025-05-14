@@ -52,6 +52,9 @@
 - Compare sales channels and customer loyalty metrics
 
 ## Conclusion
-- The Power BI dashboard empowers decision-makers with fast, clear, and interactive insights. It improves visibility into key areas of sales, reveals trends across time and geography, and uncovers opportunities for optimization.
-  
+- The Tableau Airbnb Dashboard provides a clear, interactive, and insightful view of rental listings across various cities and neighborhoods. By visualizing trends in price, availability, room types, and reviews, stakeholders can quickly:
+- Identify high-demand cities and popular room types.
+- Spot seasonal or regional pricing trends.
+- Evaluate listing performance based on review count and potential revenue.
+- Make data-driven decisions about pricing strategy, inventory management, and market focus.
 - ![Screenshot 2025-05-13 110836](https://github.com/user-attachments/assets/09ea24e1-a85a-4767-92da-a9d06eff5c4d)
